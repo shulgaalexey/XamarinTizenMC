@@ -1,0 +1,13 @@
+c:\users\siddarth\documents\visual studio 2017\Projects\BuildTaskTest\BuildTaskTest\BuildTaskTest\bin\Debug\BuildTaskTest.dll
+c:\users\siddarth\documents\visual studio 2017\Projects\BuildTaskTest\BuildTaskTest\BuildTaskTest\bin\Debug\BuildTaskTest.pdb
+c:\users\siddarth\documents\visual studio 2017\Projects\BuildTaskTest\BuildTaskTest\BuildTaskTest\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\siddarth\documents\visual studio 2017\Projects\BuildTaskTest\BuildTaskTest\BuildTaskTest\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\siddarth\documents\visual studio 2017\Projects\BuildTaskTest\BuildTaskTest\BuildTaskTest\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\siddarth\documents\visual studio 2017\Projects\BuildTaskTest\BuildTaskTest\BuildTaskTest\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\siddarth\documents\visual studio 2017\Projects\BuildTaskTest\BuildTaskTest\BuildTaskTest\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\siddarth\documents\visual studio 2017\Projects\BuildTaskTest\BuildTaskTest\BuildTaskTest\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\siddarth\documents\visual studio 2017\Projects\BuildTaskTest\BuildTaskTest\BuildTaskTest\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\siddarth\documents\visual studio 2017\Projects\BuildTaskTest\BuildTaskTest\BuildTaskTest\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\siddarth\documents\visual studio 2017\Projects\BuildTaskTest\BuildTaskTest\BuildTaskTest\obj\Debug\BuildTaskTest.csprojResolveAssemblyReference.cache
+c:\users\siddarth\documents\visual studio 2017\Projects\BuildTaskTest\BuildTaskTest\BuildTaskTest\obj\Debug\BuildTaskTest.dll
+c:\users\siddarth\documents\visual studio 2017\Projects\BuildTaskTest\BuildTaskTest\BuildTaskTest\obj\Debug\BuildTaskTest.pdb
